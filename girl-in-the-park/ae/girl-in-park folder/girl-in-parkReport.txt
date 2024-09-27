@@ -1,0 +1,36 @@
+Report created: 
+	27.09.2024	18:08:50
+
+Project name: girl-in-park.aep
+
+Source files collected to: 
+	E:\video\learning\my\girl-in-the-park\ae\girl-in-park folder
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	bench
+	mainTree
+	
+Number of collected files:  3
+
+Size of collected files:  1,4 MB
+
+Collected source files: 
+	E:\video\learning\my\girl-in-the-park\refs\1fc121a37bc9e453fafeca65d0ca1ba5.jpg
+	E:\video\learning\my\girl-in-the-park\refs\78c31553539417.59380608b4ec8.jpg
+	E:\video\learning\my\girl-in-the-park\refs\dan_gartman_605.jpg
+	
+Rendering plug-ins:
+	Cinema 4D
+	
+Effects used:  3
+
+Effect:  Add Grain
+	
+Effect:  Gradient Ramp
+	
+Effect:  Paint
+	
+
