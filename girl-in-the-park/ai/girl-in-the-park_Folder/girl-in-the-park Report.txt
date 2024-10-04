@@ -1,0 +1,64 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: girl-in-the-park.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 1920 px x 1080 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\VOVA\VIDEOWORK\GitHub\video\girl-in-the-park\ae\girl-in-park folder\(Footage)\image_2024-09-29_02-09-29.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 389K, 286 by 465 pixels
+Dimensions: 281,23 by 457,245 points 
+Resolution: 73,221 by 73,221 pixels per inch
+
+
+C:\Users\VOVA\VIDEOWORK\GitHub\video\girl-in-the-park\ae\girl-in-park folder\(Footage)\image_2024-09-29_02-01-33.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1577K, 970 by 555 pixels
+Dimensions: 1924,27 by 1101 points 
+Resolution: 36,294 by 36,294 pixels per inch
+
+
+C:\Users\VOVA\VIDEOWORK\GitHub\video\girl-in-the-park\refs\dan_gartman_605.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 3136K, 1239 by 864 pixels
+Dimensions: 1239 by 864 points 
+Resolution: 72 by 72 pixels per inch
