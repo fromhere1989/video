@@ -1,0 +1,42 @@
+Report created: 
+	14.10.2024	0:50:16
+
+Project name: 1-try.aep
+
+Source files collected to: 
+	C:\Users\VOVA\VIDEOWORK\GitHub\video\foxstoria-YT\1-try folder
+
+Source files collected: All
+
+Collected comps:  
+	foxStoria-youtube-fairytale-preset
+	book-intro
+	
+Number of collected files:  8
+
+Size of collected files:  99,9 MB
+
+Collected source files: 
+	C:\Users\from_here\Downloads\After Effects DUIK Angela Easy Tail Rig Tutorial l 쉬운 꼬리 애니메이션.mp4
+	C:\Users\from_here\Downloads\Discover & share this Animation GIF with everyone you know_ GIPHY is how you search, share, discover, and create GIFs_.gif
+	C:\Users\from_here\Downloads\fox-moscot.png
+	C:\Users\from_here\Downloads\Mothers Day Cartoon White Transparent, Mothers Day Cute Cartoon Animal Fox, Mother Clipart, Fox, Mothers Day PNG Image For Free Download.jpg
+	C:\Users\from_here\Downloads\Rihn 🍄 on Instagram_ _Hi friends! 🐸🧙🏼 Out little frog friend is brewing up some potions today! Maybe some potions of positive energy to help you with a good start of the week! ✨ I also made an animated vers.jpg
+	C:\Users\from_here\Videos\2024-10-13 15-40-21.mp4
+	C:\Users\from_here\Videos\2024-10-13 15-52-33.mp4
+	C:\Users\VOVA\VIDEOWORK\GitHub\video\foxstoria-promo\promo-2-demo12.mp4
+	
+Number of missing items:  1
+
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  CC Page Turn
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Andika”, Font style: “Bold”
+
