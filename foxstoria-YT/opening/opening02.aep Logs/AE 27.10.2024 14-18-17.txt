@@ -1,0 +1,17 @@
+Adobe After Effects v23.4 Windows 64 render log for project “opening02.aep”
+
+Rendering started on 27.10.2024 at 14:18:17
+
+  27.10.2024 14:18:17: Starting composition “Comp 1”.
+
+  Output To: C:\Users\VOVA\VIDEOWORK\GitHub\video\foxstoria-YT\opening\template\outro.mp4  After Effects warning: Could not open the file 'C:\Users\from_here\AppData\Local\Temp\Adobe\After Effects\23.4\Disk Cache - DESKTOP-CJL2ELN.noindex\c1\c1f42f7e-b5ff-b009-07bb-af5a813f90a5.ADBE LCV.B3A0635.AgMAAFUBAAC+AwAAGwIAAAIDAABVAQAAvgMAABsCAAACAwAAVQEAAL4DAAAbAgAAAAAAAAAAAACABwAAOAQAAAAAAAA=.aecache'.After Effects warning: Could not open the file 'C:\Users\from_here\AppData\Local\Temp\Adobe\After Effects\23.4\Disk Cache - DESKTOP-CJL2ELN.noindex\a8\a87da713-7960-3ed7-bdaf-099deaec52aa.ADBE LCV.B3A0635.6AIAANMAAACYBAAAgwIAAOgCAADTAAAAmAQAAIMCAADoAgAA0wAAAJgEAACDAgAAAAAAAAAAAACABwAAOAQAAAAAAAA=.aecache'.After Effects warning: Could not open the file 'C:\Users\from_here\AppData\Local\Temp\Adobe\After Effects\23.4\Disk Cache - DESKTOP-CJL2ELN.noindex\a8\a87da713-7960-3ed7-bdaf-099deaec52aa.ADBE LCV.B3A0635.6AIAANMAAACYBAAAgwIAAOgCAADTAAAAmAQAAIMCAADoAgAA0wAAAJgEAACDAgAAAAAAAAAAAACABwAAOAQAAAAAAAA=.aecache'.After Effects warning: Could not open the file 'C:\Users\from_here\AppData\Local\Temp\Adobe\After Effects\23.4\Disk Cache - DESKTOP-CJL2ELN.noindex\af\af8a04f8-ff75-09bd-c640-b313de8446c3.ADBE LCV.B3A0635.rgMAAF8BAABIBAAAKAIAAK4DAABfAQAASAQAACgCAACuAwAAXwEAAEgEAAAoAgAAAAAAAAAAAACABwAAOAQAAAAAAAA=.aecache'.  27.10.2024 14:18:45: Finished composition “Comp 1”.
+
+
+  27.10.2024 14:18:45: Starting composition “Comp 1”.
+
+  Output To: C:\Users\VOVA\VIDEOWORK\GitHub\video\foxstoria-YT\opening\template\intro.mp4    27.10.2024 14:19:03: Finished composition “Comp 1”.
+
+
+  Total Time Elapsed: 46 Seconds
+Log closed on 27.10.2024 at 14:19:03
+
